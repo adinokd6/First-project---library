@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1585244617 source:c:\users\adino\documents\studia\cyberbezpieczeñstwo\ii semestr\programowanie obiektowe\projekt\na zajecia\3 zajecia\baza.cpp
+	"baza.h"
+	<iostream>
+	<vector>
+
+1585244750 c:\users\adino\documents\studia\cyberbezpieczeñstwo\ii semestr\programowanie obiektowe\projekt\na zajecia\3 zajecia\baza.h
+	<iostream>
+	<vector>
+
+1585244632 source:c:\users\adino\documents\studia\cyberbezpieczeñstwo\ii semestr\programowanie obiektowe\projekt\na zajecia\3 zajecia\osoba.cpp
+	"osoba.h"
+	<iostream>
+	<vector>
+
+1585244272 c:\users\adino\documents\studia\cyberbezpieczeñstwo\ii semestr\programowanie obiektowe\projekt\na zajecia\3 zajecia\osoba.h
+	<iostream>
+	<vector>
+	"baza.h"
+
+1585244616 source:c:\users\adino\documents\studia\cyberbezpieczeñstwo\ii semestr\programowanie obiektowe\projekt\na zajecia\3 zajecia\main.cpp
+	<iostream>
+	<vector>
+	"baza.h"
+	"osoba.h"
+
